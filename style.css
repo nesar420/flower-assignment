@@ -1,0 +1,250 @@
+* {
+    font-family: 'Lato', sans-serif;
+    margin: 0px 0px;
+    
+}
+
+
+/* header css sect */
+
+header {
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 15px  200px 0px 200px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.upin-stuff {
+margin-top: 100px;    
+padding: 10px;
+
+}
+.first-title {
+    font-size: 45px;
+    font-weight: 900;
+    color: #272727;
+    margin-bottom: 20px;
+}
+.upin-stuff p {
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.shop-n {
+    color: white;
+    border-radius: 4px;
+    border: none;
+    padding: 10px 25px;
+    background: #E55473;
+    font-size: 15px;
+    cursor: pointer;
+}
+.banner-flower {
+    width: 400px;
+    position: bottom right;
+}
+
+
+/* main */
+
+main {
+    padding: 80px 207px;
+    
+}
+
+main h2, main p {
+    text-align: center;
+    margin-bottom: 24px;
+    
+}
+main .f-f-p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: small;
+    margin-bottom: 40px;
+}
+
+.variant-flower-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+.out-shape1 {
+    height: 300px;
+    width: 280px;
+    border-top-left-radius: 175px;
+    border-top-right-radius: 175px;
+    background-color: rgba(167, 33, 98, 0.15);
+    background-image: url("../Flower\ Asset/pngwing 6.png");
+    background-size: 190px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+.out-shape2 {
+    height: 300px;
+    width:280px;
+    
+    /* border-top-left-radius: 150px;
+    border-top-right-radius: 150px; */
+    /* background-color: ; */
+    border-radius: 150px 150px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    background-image: url('../Flower\ Asset/pngwing 5.png');
+    background-repeat:no-repeat;
+    background-size: 250px ;
+    background-position: center;
+}
+.out-shape3 {
+    height:300px;
+    width: 280px;
+    border-radius: 150px 150px 0 0;
+    background:rgba(71, 125, 17, 0.15);
+    background-image: url('../Flower\ Asset/pngwing 7.png');
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: center bottom;
+    
+}
+.out-shape {
+    border: 1px solid pink;
+    height: 200px;
+    width: 200px;
+    background-color: #ff9fb4;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    
+    
+}
+.out p {
+    margin-top: 20px;
+    font-weight: 700;
+    text-decoration: underline;
+    color: rgb(46, 46, 46);
+}
+.services {
+    background: rgba(39, 39, 39, 0.05);
+    margin-top:40px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 40px;
+    border-radius: 5px;
+    
+}
+.service {
+text-align: center;
+}
+.service-f {
+    height: 60px;
+    width: 60px;
+}
+
+/* hot deals */
+
+.hot-deals {
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 80px;
+    
+    margin-left: -250px;
+    margin-right: -250px;
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 220px 80px 220px;
+    align-items: center;
+}
+.hotd-contents h1 {
+    font-weight: 800;
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.hotd-sclr {
+    color:#E55473 ;
+}
+.hotd-contents .hotdd {
+    color:rgba(39, 39, 39, 0.60);
+    text-align: center;
+    width:540px;
+}
+.hotd-tree {
+    width: 220px;
+}
+
+.instagram {
+    text-align: center;
+}
+
+.insta-pic {
+    display: flex;
+    justify-content: space-between;
+}
+.picss {
+    width: 210px;
+}
+.insta-desc {
+    width:554px;
+    margin: auto;
+    padding: 30px 0px 30px 0px;
+    color: rgba(39, 39, 39, 0.60);;
+}
+.insta-tit {
+    margin-top: 50px;
+    
+}
+
+.mail-bg {
+    background-image: url('/Flower\ Asset/Rectangle 9.png');
+    background-size: cover;
+    padding: 90px;
+    margin-top: 80px;
+    border-radius: 6px;
+    
+}
+.subs {
+    text-align: center;
+}
+.subs-sec input {
+border: none;
+padding: 11px 25px;
+width: 300px;
+border-radius: 4px;
+font-size: x-small;
+}
+.subs-sec {
+    margin: 0%;
+    margin-left: 120px;
+    
+}
+/* footer */
+
+footer {
+    background-color: black;
+    padding: 80px;
+    text-align: center;
+    
+}
+.abs h1, .abs p  {
+    color:  rgba(255, 255, 255, 0.90);;
+    margin-bottom: 30px;
+   
+}
+.abs h1 {
+    font-weight: 800;
+    font-size: 28px;
+    color: #E55473;
+}
+
+.abs span {
+    color: #ffffff;
+}
+.abs p {
+    font-size: 14px;
+    
+}
+.cpy-r8 {
+color: #FFFFFF66;
+font-size: 12px;
+text-align: center;
+letter-spacing: 1px;
+}
