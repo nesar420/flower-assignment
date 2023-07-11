@@ -76,7 +76,7 @@ main .f-f-p {
     border-top-left-radius: 175px;
     border-top-right-radius: 175px;
     background-color: rgba(167, 33, 98, 0.15);
-    background-image: url("../Flower\ Asset/pngwing 6.png");
+    background-image: url("./Flower Asset/pngwing 6.png");
     background-size: 190px;
     background-repeat: no-repeat;
     background-position: center bottom;
@@ -90,7 +90,7 @@ main .f-f-p {
     /* background-color: ; */
     border-radius: 150px 150px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    background-image: url('../Flower\ Asset/pngwing 5.png');
+    background-image: url('./Flower Asset/pngwing 5.png');
     background-repeat:no-repeat;
     background-size: 250px ;
     background-position: center;
@@ -100,7 +100,7 @@ main .f-f-p {
     width: 280px;
     border-radius: 150px 150px 0 0;
     background:rgba(71, 125, 17, 0.15);
-    background-image: url('../Flower\ Asset/pngwing 7.png');
+    background-image: url('./Flower Asset/pngwing 7.png');
     background-repeat: no-repeat;
     background-size: 200px;
     background-position: center bottom;
@@ -194,7 +194,7 @@ text-align: center;
 }
 
 .mail-bg {
-    background-image: url('/Flower\ Asset/Rectangle 9.png');
+    background-image: url('./Flower Asset/Rectangle 9.png');
     background-size: cover;
     padding: 90px;
     margin-top: 80px;
